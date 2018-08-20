@@ -1,0 +1,8 @@
+{
+	"default" : {
+		"hostname" : "r-m5e46d33484f2124.redis.rds.aliyuncs.com",
+		"password" : "ASDasd19981018",
+		"port" : 6379,
+		"prefix" : "V3::"
+	}
+}
