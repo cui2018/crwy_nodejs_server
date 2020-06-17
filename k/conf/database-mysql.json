@@ -1,8 +1,8 @@
 {
 	"default" : {
 		"hostname" : "rm-m5enf4d2o78qyk26w.mysql.rds.aliyuncs.com",
-		"username" : "crxl2018",
-		"password" : "ASDasd19981018",
+		"username" : "crxl2810",
+		"password" : "ASDasd19981810",
 		"database" : "gamev3",
 		"prefix" : ""
 	}
